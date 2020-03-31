@@ -12,6 +12,8 @@ use Digest::MD5 qw(md5 md5_hex md5_base64);
 
 system('clear');
 print "
+MD5 Cracker [v: 1.0.0]
+
 [1]>list crack md5
 [2]>Auto crack md5
 [3]>use MD5
