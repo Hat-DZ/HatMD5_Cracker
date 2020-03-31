@@ -13,7 +13,7 @@ It will start downloading ...
 
 [2]~ Go to the tools file
 
-[3]~ perl perl HatDZ_MD5.pl
+[3]~ perl HatDZ_MD5.pl
 
 [4]~ chose what you want
 
