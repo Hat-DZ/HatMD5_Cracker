@@ -4,7 +4,7 @@ Crack MD5 Hash using (HatMD5_Cracker)
 # how to download
 [1]~ Open your terminal and paste
 
-[2]~ https://github.com/Hat-DZ/HatMD5_Cracker.git
+[2]~ git clone https://github.com/Hat-DZ/HatMD5_Cracker.git
 
 It will start downloading ...
 
